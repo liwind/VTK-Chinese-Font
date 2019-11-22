@@ -1,4 +1,6 @@
 # VTK Chinese Font
+## example result
+![](./data/example.png "example")
 ## example test environment
 - windows 10
 - visual studio 2019
